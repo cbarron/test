@@ -1,0 +1,81 @@
+\documentclass[modernstyle,11pt]{thesis}
+
+\usepackage{amssymb}		% to get all AMS symbols
+\usepackage{graphicx}		% to insert figures
+\usepackage{underscore}		% to get automatically escaped underscores
+\usepackage{tabularx}		% better tables
+\usepackage{microtype}		% Look better ^TM
+\usepackage{lewis}
+
+\newcommand{\nplh}{{\em No Place Like Home}}
+
+%%%%%%%%%%%%   All the preamble material:   %%%%%%%%%%%%
+
+\title{Supporting Pet-to-Family Reunification in Disaster by Leveraging Human and Machine Computation}
+
+\author{Joshua Franklin}{Barron}
+
+\otherdegrees{B.S., New Mexico Institute of Mining and Technology, 2010}
+
+\degree{Master of Science}		%  #1 {long descr.}
+	{M.S., Computer Science}		%  #2 {short descr.}
+
+\dept{Department of}			%  #1 {designation}
+	{Computer Science}		%  #2 {name}
+
+\advisor{Prof.}				%  #1 {title}
+	{Leysia Palen}			%  #2 {name}
+
+\reader{Kenneth Anderson}		%  2nd person to sign thesis
+\readerThree{James Martin}		%  3rd person to sign thesis
+
+\abstract{  \OnePageChapter	% because it is very short
+Displacement of pets in and after disaster events is a serious matter to families and creates public safety and health issues at large.  During and after Hurricane Katrina, an estimated 200,000 pets were displaced from their guardians, with only five percent of these pets ever being reunited with their guardians.  One of the major obstacles to successful pet-to-family reunification is the large search space individuals must navigate in search of lost pets.  Grounded in the theory of crisis informatics, which studies how people use information communication technology (ICT), this work leverages the phenomenon of digital volunteerism to better address the problem of pet-to-family reunification.
+
+This effort culminates in the form of \nplh, which is an online platform for use by digital volunteers interesting in aiding pet-to-family reunification efforts in a disaster.  This work describes this system in terms of its design features and software architecture.  The primary design features of the system are an accessible user interface, collaboration mechanisms (in the form of social network support and chat rooms), and social capital.  The other key feature of this system is how it incorporates human computation (performed by the crowd of digital volunteers) with machine computation (performed by information retrieval and classification systems) in a collaborative manner which plays to the strengths of each type of computation.  
+
+An evaluation of the machine learning components of the system in an experimental setting reveals that the positioning of machine computation as supporting the larger activities of digital volunteers is promising.  With this validation, the system is poised for future public deployment in a disaster scenario and further study.
+	}
+
+\dedication[Dedication]{	% NEVER use \OnePageChapter here.
+	This work is dedicated to Genevieve, Melanie, and Peter.
+	}
+
+\acknowledgements{	\OnePageChapter	% *MUST* BE ONLY ONE PAGE!
+	I would like to thank my committee members for their assistance.  Special thanks must be given to my advisor, Leysia Palen, for her consistent and valuable guidance regarding this work.  I would also like to acknowledge the members of Project EPIC for their assistance, but especially Mario Barrenechea and Joanne White for their work with me on the design of \nplh.
+	}
+
+\ToCisShort	% use this only for 1-page Table of Contents
+
+\LoFisShort	% use this only for 1-page Table of Figures
+% \emptyLoF	% use this if there is no List of Figures
+
+\LoTisShort	% use this only for 1-page Table of Tables
+% \emptyLoT	% use this if there is no List of Tables
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%       BEGIN DOCUMENT...         %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\input macros.tex
+\input chapter1.tex
+\input chapter2.tex
+\input chapter3.tex
+\input chapter4.tex
+\input chapter5.tex
+
+%%%%%%%%%   then the Bibliography, if any   %%%%%%%%%
+\bibliographystyle{plain}	% or "siam", or "alpha", etc.
+\nocite{*}		% list all refs in database, cited or not
+\bibliography{refs}		% Bib database in "refs.bib"
+
+%%%%%%%%%   then the Appendices, if any   %%%%%%%%%
+%\appendix
+%\input appendixA.tex
+%\input appendixB.tex
+
+
+\end{document}
+

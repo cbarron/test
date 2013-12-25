@@ -1,0 +1,19 @@
+\contentsline {part} {\tablenameToC }{\relax }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Tasks facilitated by the system}}{11}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Artifacts}}{20}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Views provided by {\tt authentication} subsystem}}{28}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Translations performed client-side by {\tt chat} subsystem}}{28}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Views provided by {\tt chat} subsystem}}{29}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Views provided by {\tt reporting} subsystem}}{29}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Views provided by {\tt matching} subsystem}}{30}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Public interface for {\tt Machine Learning} subsystem}}{31}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Variations of the scoring formula}}{47}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Classifier implementations}}{47}
+\contentsline {table}{\numberline {4.3}{\ignorespaces {\tt Pet} classifier evaluation}}{48}
+\contentsline {table}{\numberline {4.4}{\ignorespaces {\tt Match} classifier evaluation}}{48}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Combined evaluation}}{48}
+\addvspace {10\p@ }

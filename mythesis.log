@@ -1,0 +1,452 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.24)  24 DEC 2013 20:18
+entering extended mode
+**mythesis.tex
+(C:\Users\Carley\Documents\GitHub\test\mythesis.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
+-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
+ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
+elsh, loaded.
+(C:\Users\Carley\Documents\GitHub\test\thesis.cls
+Document Class: thesis 2010/04/30
+
+--------------------------------------------------------------
+ +---+ Thesis Style (thesis.cls) version 1.11, April 2010
+ +---+ for University of Colorado Ph.D. theses/dissertations.
+ * Conforms to the University of Colorado at Boulder Graduate
+ * School "SPECIFICATIONS for Preparation of Master's Thesis
+ * and Doctoral Dissertations" (rev. April 2010).
+--------------------------------------------------------------
+ URL: http://www.colorado.edu/its/docs/latex/ThesisClass
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip43
+\UL@hook=\toks14
+\UL@height=\dimen103
+\UL@pe=\count88
+\UL@pixel=\dimen104
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen105
+)
+\c@th@SecNum=\count89
+\c@th@SectionSave=\count90
+\th@SubSubSecSpc=\skip44
+\c@th@storepage=\count91
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\underscore\underscore.sty
+Package: underscore 2006/09/13
+LaTeX Info: Redefining \_ on input line 42.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen108
+\extrarowheight=\dimen109
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+)
+\TX@col@width=\dimen110
+\TX@old@table=\dimen111
+\TX@old@col=\dimen112
+\TX@target=\dimen113
+\TX@delta=\dimen114
+\TX@cols=\count93
+\TX@ftn=\toks18
+)
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks19
+\MT@count=\count94
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen115
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count95
+
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2013/05/23 v2.5a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip47
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\lewis\lewis.sty
+Package: lewis 2006/05/22 v0.1 Draw Lewis Structures
+)
+Putting page number on short ToC
+Putting page number on short LoF
+Putting page number on short LoT
+(C:\Users\Carley\Documents\GitHub\test\mythesis.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen116
+\scratchbox=\box29
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen117
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks21
+)
+LaTeX Info: Redefining \microtypecontext on input line 60.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Making Title Page
+Making Approval Page
+[1
+
+
+{C:/Users/Carley/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Making Abstract Page
+[2
+
+]
+Making Dedication Page
+[3
+
+]
+centered
+Making Acknowledgement Page
+[4
+
+
+]
+centered
+Making ToC Page
+Making Short ToC...
+[5
+
+
+]
+centered
+Short Chapter (page numbered)
+(C:\Users\Carley\Documents\GitHub\test\mythesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Carley\AppData\Roaming\MiKTeX\2.9\tex\latex\microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [6
+
+])
+\tf@toc=\write3
+
+Making LoT Page
+Making Short LoT...
+[7]
+centered
+Short Chapter (page numbered)
+(C:\Users\Carley\Documents\GitHub\test\mythesis.lot)
+\tf@lot=\write4
+
+Making LoF Page
+Making Short LoF...
+[8
+
+]
+centered
+Short Chapter (page numbered)
+(C:\Users\Carley\Documents\GitHub\test\mythesis.lof)
+\tf@lof=\write5
+
+
+
+-------------------Beginning Body----------------------
+
+
+[9
+
+] (C:\Users\Carley\Documents\GitHub\test\macros.tex
+\c@th@theorem=\count102
+) (C:\Users\Carley\Documents\GitHub\test\chapter1.tex
+ \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 1.
+centered
+[1
+
+
+]) (C:\Users\Carley\Documents\GitHub\test\chapter2.tex [2]
+ \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 2.
+centered
+[3
+
+] [4]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+ [5]
+<figs/datascouts.png, id=52, 383.93437pt x 265.74281pt>
+File: figs/datascouts.png Graphic file (type png)
+ <use figs/datascouts.png>
+Package pdftex.def Info: figs/datascouts.png used on input line 37.
+(pdftex.def)             Requested size: 256.0748pt x 177.25604pt.
+ [6 <C:/Users/Carley/Documents/GitHub/test/figs/datascouts.png>] [7] [8] [9]) (C:\Users\Carley\Documents\GitHub\test\cha
+pter3.tex [10]
+ \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 3.
+centered
+[11
+
+] [12] <figs/design1.png, id=77, 616.4631pt x 583.2189pt>
+File: figs/design1.png Graphic file (type png)
+ <use figs/design1.png>
+Package pdftex.def Info: figs/design1.png used on input line 46.
+(pdftex.def)             Requested size: 426.79134pt x 403.78305pt.
+
+<figs/design2.png, id=79, 820.56563pt x 692.5875pt>
+File: figs/design2.png Graphic file (type png)
+ <use figs/design2.png>
+Package pdftex.def Info: figs/design2.png used on input line 56.
+(pdftex.def)             Requested size: 426.79134pt x 360.22154pt.
+
+<figs/design3.png, id=80, 932.73468pt x 632.3625pt>
+File: figs/design3.png Graphic file (type png)
+ <use figs/design3.png>
+Package pdftex.def Info: figs/design3.png used on input line 76.
+(pdftex.def)             Requested size: 426.79134pt x 289.34644pt.
+ [13] [14 <C:/Users/Carley/Documents/GitHub/test/figs/design1.png>] [15 <C:/Users/Carley/Documents/GitHub/test/figs/desi
+gn2.png>]
+<figs/design4.png, id=91, 862.72313pt x 514.17094pt>
+File: figs/design4.png Graphic file (type png)
+ <use figs/design4.png>
+Package pdftex.def Info: figs/design4.png used on input line 86.
+(pdftex.def)             Requested size: 426.79134pt x 254.35457pt.
+ [16] [17 <C:/Users/Carley/Documents/GitHub/test/figs/design3.png>] [18 <C:/Users/Carley/Documents/GitHub/test/figs/desi
+gn4.png>] [19]
+<figs/artifacts.png, id=105, 615.80063pt x 606.76688pt>
+File: figs/artifacts.png Graphic file (type png)
+ <use figs/artifacts.png>
+Package pdftex.def Info: figs/artifacts.png used on input line 138.
+(pdftex.def)             Requested size: 426.79134pt x 420.53981pt.
+ [20] [21 <C:/Users/Carley/Documents/GitHub/test/figs/artifacts.png>] <figs/deployment.png, id=112, 536.0025pt x 301.877
+8pt>
+File: figs/deployment.png Graphic file (type png)
+ <use figs/deployment.png>
+Package pdftex.def Info: figs/deployment.png used on input line 162.
+(pdftex.def)             Requested size: 426.79134pt x 240.36942pt.
+ [22]
+[23 <C:/Users/Carley/Documents/GitHub/test/figs/deployment.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+[]|\OT1/cmr/m/n/10 (+20) GET,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+[]|\OT1/cmr/m/n/10 (+20) GET,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+[]|\OT1/cmtt/m/n/10 associate_-
+ []
+
+[24] [25]
+Overfull \hbox (2.2291pt too wide) in paragraph at lines 250--250
+[]|\OT1/cmr/m/n/10.95 (-20) Method| 
+ []
+
+
+Overfull \hbox (3.76408pt too wide) in paragraph at lines 250--250
+\OT1/cmr/m/n/10.95 (-20) (\OT1/cmtt/m/n/10.95 /chat/(?P<id>)/ 
+ []
+
+
+Overfull \hbox (2.2291pt too wide) in paragraph at lines 279--279
+[]|\OT1/cmr/m/n/10.95 (-20) Method| 
+ []
+
+
+Overfull \hbox (3.76408pt too wide) in paragraph at lines 279--279
+\OT1/cmr/m/n/10.95 (-20) (\OT1/cmtt/m/n/10.95 /report/upvote/ 
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+\OT1/cmr/m/n/10.95 (+20) Form Data
+ []
+
+) (C:\Users\Carley\Documents\GitHub\test\chapter4.tex [27] [28] [29] [30] [31]
+ \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 4.
+centered
+[32
+
+] [33] [34] [35] [36] [37] [38] <figs/corpus.png, id=170, 539.76656pt x 162.6075pt>
+File: figs/corpus.png Graphic file (type png)
+ <use figs/corpus.png>
+Package pdftex.def Info: figs/corpus.png used on input line 122.
+(pdftex.def)             Requested size: 355.65944pt x 107.14511pt.
+ [39 <C:/Users/Carley/Documents/GitHub/test/figs/corpus.png>] <figs/annotation1.png, id=175, 856.70062pt x 498.36188pt>
+File: figs/annotation1.png Graphic file (type png)
+
+<use figs/annotation1.png>
+Package pdftex.def Info: figs/annotation1.png used on input line 163.
+(pdftex.def)             Requested size: 426.79134pt x 248.2754pt.
+ [40] [41 <C:/Users/Carley/Documents/GitHub/test/figs/annotation1.png>] [42]
+<figs/annotation2.png, id=186, 795.72281pt x 435.87843pt>
+File: figs/annotation2.png Graphic file (type png)
+ <use figs/annotation2.png>
+Package pdftex.def Info: figs/annotation2.png used on input line 219.
+(pdftex.def)             Requested size: 426.79134pt x 233.78127pt.
+ [43 <C:/Users/Carley/Documents/GitHub/test/figs/annotation2.png>]
+! Undefined control sequence.
+l.233 ...ss prior probabilities (i.e., $p(C_{\text
+                                                  {match}}) \approx .1$).  T...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[44] [45]) (C:\Users\Carley\Documents\GitHub\test\chapter5.tex [46] [47] [48]
+ \th@ChapterStyle\th@DoChapCenterChapter \th@ChapterStyle 5.
+centered
+[49
+
+] [50]) [51] (C:\Users\Carley\Documents\GitHub\test\mythesis.bbl [52]
+centered
+[53
+
+]) [54] (C:\Users\Carley\Documents\GitHub\test\mythesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 3794 strings out of 493921
+ 57350 string characters out of 3144872
+ 169263 words of memory out of 3000000
+ 6895 multiletter control sequences out of 15000+200000
+ 18492 words of font info for 117 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 35i,13n,39p,1761b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on mythesis.pdf (63 pages, 4066008 bytes).
+PDF statistics:
+ 270 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18483 words of extra memory for PDF output out of 20736 (max. 10000000)
+

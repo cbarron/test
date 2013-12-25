@@ -1,0 +1,16 @@
+\contentsline {part} {\figurenameToC }{\relax }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Data Scouts Roles}}{6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces First Interface Prototype}}{14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Second Interface Prototype}}{15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Third Interface Prototype: selecting a pet to work on}}{17}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Fourth Interface Prototype: finding a match for a pet}}{18}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Database Design}}{21}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Deployment Diagram}}{23}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Sample Pet in Corpus}}{39}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces {\tt Pet} classifier Annotation Interface}}{41}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces {\tt Match} classifier Annotation Interface}}{43}
+\addvspace {10\p@ }

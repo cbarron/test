@@ -1,0 +1,143 @@
+\begin{thebibliography}{10}
+
+\bibitem{sdc}
+Mario Barrenechea, Joshua Barron, and Joanne White.
+\newblock No {P}lace {L}ike {H}ome: Pet-to-family reunification after disaster.
+\newblock In {\em Proceedings of the 2012 annual conference extended abstracts
+  on Human factors in computing systems (to appear)}, CHI EA '12, New York, NY,
+  USA, 2012. ACM.
+
+\bibitem{corvey:nlp}
+William~J. Corvey, Sarah Vieweg, Travis Rood, and Martha Palmer.
+\newblock Twitter in mass emergency: what {NLP} techniques can contribute.
+\newblock In {\em Proceedings of the NAACL HLT 2010 Workshop on Computational
+  Linguistics in a World of Social Media}, WSA '10, pages 23--24, Stroudsburg,
+  PA, USA, 2010. Association for Computational Linguistics.
+
+\bibitem{fowler:patterns}
+Martin Fowler.
+\newblock {\em Patterns of Enterprise Application Architecture}.
+\newblock Addison-Wesley Longman Publishing Co., Inc., Boston, MA, USA, 2002.
+
+\bibitem{franklin:taxonomy}
+Stan Franklin and Art Graesser.
+\newblock Is it an agent, or just a program?: A taxonomy for autonomous agents.
+\newblock In {\em Proceedings of the Workshop on Intelligent Agents III, Agent
+  Theories, Architectures, and Languages}, ECAI '96, pages 21--35, London, UK,
+  UK, 1997. Springer-Verlag.
+
+\bibitem{fritz:convergence}
+C.~E. Fritz and J.~H. Mathewson.
+\newblock Convergence behavior in disasters: A problem in social control.
+\newblock Committee on Disaster Studies, National Academy of Sciences, National
+  Research Council, Washington DC, 1957.
+
+\bibitem{jurafsky:nlp}
+Daniel Jurafsky and James~H. Martin.
+\newblock {\em Speech and Language Processing (2nd Edition)}.
+\newblock Prentice-Hall, Inc., Upper Saddle River, NJ, USA, 2009.
+
+\bibitem{licklider:symbiosis}
+J.~C.~R. Licklider.
+\newblock Man-computer symbiosis.
+\newblock {\em IEEE Ann. Hist. Comput.}, 14(1), January 1992.
+
+\bibitem{lieberman:agents}
+Henry Lieberman.
+\newblock Autonomous interface agents.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, CHI '97, pages 67--74, New York, NY, USA, 1997. ACM.
+
+\bibitem{lowe:petloss}
+S.R. Lowe, J.~Rhodes, L.~Zweibach, and C.~Chan.
+\newblock The impact of pet loss on the perceived social support and
+  psychological distress of hurricane survivors.
+\newblock {\em Journal of Traumatic Stress}, 22(3):244--247, 2009.
+
+\bibitem{macskassy:text}
+Sofus~A. Macskassy, Haym Hirsh, Arunava Banerjee, and Aynur~A. Dayanik.
+\newblock Using text classifiers for numerical classification.
+\newblock In {\em Proceedings of the 17th international joint conference on
+  Artificial intelligence - Volume 2}, IJCAI'01, pages 885--890, San Francisco,
+  CA, USA, 2001. Morgan Kaufmann Publishers Inc.
+
+\bibitem{maes:agents}
+Pattie Maes.
+\newblock Agents that reduce work and information overload.
+\newblock {\em Commun. ACM}, 37(7):30--40, July 1994.
+
+\bibitem{manning:ir}
+Christopher~D. Manning, Prabhakar Raghavan, and Hinrich Schtze.
+\newblock {\em Introduction to Information Retrieval}.
+\newblock Cambridge University Press, New York, NY, USA, 2008.
+
+\bibitem{mcnabb:courts}
+Megan McNabb.
+\newblock Pets in the eye of the storm: Hurricane {K}atrina floods the courts
+  with pet custody disputes.
+\newblock {\em Animal Law}, 14(71), 2007.
+
+\bibitem{palen:proposal}
+Leysia Palen.
+\newblock Datascouts: Citizens as information gathers for crisis event
+  reconnaissance activities.
+
+\bibitem{palen:vision}
+Leysia Palen, Kenneth~M. Anderson, Gloria Mark, James Martin, Douglas Sicker,
+  Martha Palmer, and Dirk Grunwald.
+\newblock A vision for technology-mediated support for public participation \&
+  assistance in mass emergencies \& disasters.
+\newblock In {\em Proceedings of the 2010 ACM-BCS Visions of Computer Science
+  Conference}, ACM-BCS '10, pages 8:1--8:12, Swinton, UK, UK, 2010. British
+  Computer Society.
+
+\bibitem{palen:ict}
+Leysia Palen and Sophia~B. Liu.
+\newblock Citizen communications in crisis: anticipating a future of
+  {ICT}-supported public participation.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, CHI '07, pages 727--736, New York, NY, USA, 2007. ACM.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and Duchesnay E.
+\newblock {Scikit-learn: Machine Learning in Python }.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{sebastiani:ml}
+Fabrizio Sebastiani.
+\newblock Machine learning in automated text categorization.
+\newblock {\em ACM Comput. Surv.}, 34(1):1--47, March 2002.
+
+\bibitem{starbird:doctoral}
+Kate Starbird.
+\newblock Crowd computation: organizing information during mass disruption
+  events.
+\newblock In {\em Proceedings of the ACM 2012 conference on Computer Supported
+  Cooperative Work Companion}, CSCW '12, pages 339--342, New York, NY, USA,
+  2012. ACM.
+
+\bibitem{starbird:voluntweeters}
+Kate Starbird and Leysia Palen.
+\newblock Voluntweeters: self-organizing by digital volunteers in times of
+  crisis.
+\newblock In {\em Proceedings of the 2011 annual conference on Human factors in
+  computing systems}, CHI '11, pages 1071--1080, New York, NY, USA, 2011. ACM.
+
+\bibitem{starbird:ttt}
+Kate Starbird and Jeannie Stamberger.
+\newblock Tweak the tweet: Leveraging microblogging proliferation with a
+  prescriptive grammar to support citizen reporting.
+\newblock In {\em Proceedings of the 2010 Information Systems for Crisis
+  Response and Management Conference}, ISCRAM 2010, Seattle, WA, USA, 2010.
+
+\bibitem{verma:nlp}
+Sudha Verma, Sarah Vieweg, Will Corvey, Leysia Palen, Jim Martin, Martha
+  Palmer, Aaron Schram, and Kenneth~M. Anderson.
+\newblock Natural language processing to the rescue? {E}xtracting
+  ``{S}ituational {A}wareness'' tweets during mass emergency.
+\newblock {\em In the Fifth International AAAI Conference on Weblogs and Social
+  Media}, 2011.
+
+\end{thebibliography}
